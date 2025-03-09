@@ -17,7 +17,7 @@ This project implements a **Binary Message Encoding Scheme (BMES)** designed for
 1. **Clone the Repository**:
    ```bash
    git clone git@github.com:develNerd/PeerBMES.git
-   cd bmes-webrtc
+   cd PeerBMES
    ```
 
 2. **Build the Project**:
