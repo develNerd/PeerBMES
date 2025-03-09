@@ -16,7 +16,7 @@ This project implements a **Binary Message Encoding Scheme (BMES)** designed for
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/bmes-webrtc.git
+   git clone git@github.com:develNerd/PeerBMES.git
    cd bmes-webrtc
    ```
 
@@ -50,8 +50,7 @@ This project implements a **Binary Message Encoding Scheme (BMES)** designed for
 ## Structure of the Binary Message
 
 A binary message in this scheme consists of the following components:
-
-![Untitled-2024-12-15-1454xx.png](../OneDrive/Pictures/Untitled-2024-12-15-1454xx.png)
+![Untitled-2024-12-15-1454xx](https://github.com/user-attachments/assets/b722aa68-2037-4e8d-9591-f36133ccae73)
 
 ---
 
